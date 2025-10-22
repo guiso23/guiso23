@@ -11,11 +11,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e focado em aprimorar minhas habilidades no ecossistema Java. Atualmente, estou estudando React Native, e quero aprender gerenciamneto de dados em python, estou a procura da minha primeira experiencia profissional.
+Sou um desenvolvedor apaixonado por tecnologia e focado em aprimorar minhas habilidades no ecossistema Java. Atualmente, estou estudando React Native, e quero aprender gerenciamento de dados em python, estou a procura da minha primeira experiencia profissional.
 
-- 🌱 Atualmente aprendendo **Spring Boot e Testes Unitários**.
+- 🌱 Atualmente aperfeiçoando **react native**.
 - 👯 Procuro colaborar em **projetos open source para iniciantes**.
-- 📫 Como entrar em contato comigo: [seu-email@dominio.com]
+- 📫 Como entrar em contato comigo: gsno2312@gmail.com
 - 😄 Pronouns: Ele/Dele
 
 <br>
