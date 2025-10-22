@@ -33,6 +33,6 @@ Sou um desenvolvedor apaixonado por tecnologia e focado em aprimorar minhas habi
 
 ## 🔗 Conecte-se Comigo
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/guilherme-sales-3862b034b/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-sales-3862b034b/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermesales2312/)
 <!-- Adicione outras redes, como Dio.me, se quiser -->
