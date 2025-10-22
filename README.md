@@ -11,7 +11,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e focado em aprimorar minhas habilidades no ecossistema Java. Atualmente, estou [descreva o que você está fazendo, por exemplo: "estudando desenvolvimento backend com Spring Boot" ou "buscando minha primeira oportunidade na área de tecnologia"].
+Sou um desenvolvedor apaixonado por tecnologia e focado em aprimorar minhas habilidades no ecossistema Java. Atualmente, estou estudando React Native, e quero aprender gerenciamneto de dados em python, estou a procura da minha primeira experiencia profissional.
 
 - 🌱 Atualmente aprendendo **Spring Boot e Testes Unitários**.
 - 👯 Procuro colaborar em **projetos open source para iniciantes**.
