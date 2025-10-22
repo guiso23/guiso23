@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Sousa! 👋
+# Olá, eu sou o Guilherme Sales! 👋
 
 <a href="https://github.com/guiso23">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guiso23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
